@@ -44,7 +44,7 @@ This is autoinstall GenieACS
 apt install git curl -y
 ```
 ```
-git clone https://github.com/alijayanet/genieacs-multitab
+git clone https://github.com/FajarArifM/Genieacs-Multitab
 ```
 ```
 cd genieacs-multitab
@@ -58,11 +58,7 @@ bash Installer-GenieACS.sh
 
 Baca terlebih dahulu !!!
 
-https://wa.me/6281947215703
-
-atau link group telegram
-
-https://t.me/alijayaNetAcs
+https://wa.me/622140501327
 
 user admin<br> pass admin <br>
 
