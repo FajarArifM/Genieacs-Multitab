@@ -58,7 +58,7 @@ bash Installer-GenieACS.sh
 
 Baca terlebih dahulu !!!
 
-https://wa.me/622140501327
+https://wa.me/6282140501327
 
 user admin<br> pass admin <br>
 
