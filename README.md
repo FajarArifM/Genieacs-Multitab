@@ -47,7 +47,7 @@ apt install git curl -y
 git clone https://github.com/FajarArifM/Genieacs-Multitab
 ```
 ```
-cd genieacs-multitab
+cd Genieacs-Multitab
 ```
 ```
 chmod +x Installer-GenieACS.sh
